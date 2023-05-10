@@ -10,11 +10,11 @@ This is the 'do it all' ROM that many use because of it's versatility. It can lo
 
 Most of the NABU server software applications available include the ability to load so-called 'homebrew' applications. Please refer to your specific server documentation for details on how to do so.
 
-### Boot Floppy
+#### Boot Floppy
 
 This utility is simple, but useful for those of you who have a floppy controller. Simply insert a bootable floppy disk into drive A, and load this app from your server. If the disk is a valid NABU compatible CP/M disk, it will boot.
 
-### Nascom BASIC
+#### Nascom BASIC
 
 This homebrew app is the popular Z80 Nascom BASIC specifically customized to run on the NABU PC. This is an adaptation of the original found on Grant Searle's excellent web site found [here](http://searle.x10host.com/z80/SimpleZ80.html#RomFiles).
 
